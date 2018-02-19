@@ -3,12 +3,13 @@
 
 ### Install
 
-This project requires **Python 2.7** and the following Python libraries installed:
+This project requires **Python 3.x** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
+- [seaborn](https://seaborn.pydata.org/)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
